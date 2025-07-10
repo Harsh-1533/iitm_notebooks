@@ -32,11 +32,4 @@ Let’s build a helpful resource for everyone! 🙌
 
 ---
 
-### 📈 Traffic Stats (Last 14 Days):
-- **Views**: 891
-- **Unique Visitors**: 133
-- **Clones**: 9
-
----
-
 📌 *Made with ❤️ using ChatGPT to help IITM learners.*
